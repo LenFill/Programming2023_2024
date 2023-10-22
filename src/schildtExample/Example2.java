@@ -6,6 +6,6 @@ public class Example2 {
         num = 100; // Присваивание(Инициализация) переменной num значения 100
         System.out.println("Значение num: " + num);
         num = num * 2;
-        Syst
+
     }
 }

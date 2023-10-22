@@ -1,4 +1,4 @@
-package exempl_Lab1;
+package exempleLab1;
 import java.time.YearMonth;
 public class Example_10 {
     public static void main(String[] args) {
