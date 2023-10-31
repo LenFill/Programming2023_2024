@@ -15,13 +15,11 @@ public class Example_3_Do_While {
         int num = in.nextInt();
         int x = 1, y = 0, num1 = 1;
         do {
-
             System.out.print(num1 + ",");
             num1 = x + y;
             y = x;
             x = num1;
             num--;
-
         }
         while (num != 0);
         in.close();

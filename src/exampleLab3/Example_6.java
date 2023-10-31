@@ -2,7 +2,6 @@ package exampleLab3;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
 /*
 Напишите программу, в которой создается одномерный числовой массив и заполняется числами,
 которые при делении на 5 дают в остатке 2 (числа 2, 7,12,17 и так далее).
@@ -16,11 +15,8 @@ public class Example_6 {
         int num1 = in.nextInt();
         if(num1<=0)
             System.out.println("Введите число больше нуля.");
-
         int[] num = new int[num1];
         int id = 0, x =0;
-
-
         while(num1 != 0 ){
             int ostatok = x % 5;
             if (ostatok == 2){
@@ -32,7 +28,5 @@ public class Example_6 {
         }
         System.out.println(Arrays.toString(num));
         in.close();
-
-
     }
 }

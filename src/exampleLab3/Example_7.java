@@ -26,6 +26,5 @@ public class Example_7 {
         }
         System.out.println(Arrays.toString(int1));
         in.close();
-
     }
 }
