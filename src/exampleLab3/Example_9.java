@@ -15,6 +15,7 @@ public class Example_9 {
         Scanner in = new Scanner(System.in);
         System.out.print("Введите размер массива: ");
         int num = in.nextInt();
+        int[] indexs = new int[num];
         int[] nums = new int[num];
         Random random = new Random();
         for (int i = 0; i < nums.length; i++){
@@ -22,17 +23,21 @@ public class Example_9 {
         }
         System.out.println(Arrays.toString(nums));
         int min = nums[0];
-        int index = 0;
+        int  mins = 0,counter = 1;
         for (int i = 1; i < nums.length; i++ ){
-            if(nums[i]<= min){
+            if(nums[i]< min){
                 min = nums[i];
-                index = i;
+                indexs[mins] = i;
+                counter = 1;
+                } else if (nums[i]== min ) {
+                mins++;
+                indexs[mins] = i;
+                counter++;
             }
         }
         System.out.println(min);
-        System.out.println("Индекс минимального числа: " + index);
-
-
-
+        int[] des = Arrays.copyOfRange(indexs, 0, counter);
+        System.out.print("Индекс минимального числа: " + Arrays.toString(des));
+        in.close();
     }
 }

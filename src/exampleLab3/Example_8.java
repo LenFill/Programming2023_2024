@@ -22,6 +22,8 @@ public class Example_8 {
             x++;
             num--;
             y++;
+            if (x > 19)
+                x = 0;
         }
         System.out.println(Arrays.toString(int1));
         in.close();

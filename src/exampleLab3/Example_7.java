@@ -23,6 +23,8 @@ public class Example_7 {
             x = x + 2;
             num--;
             y++;
+            if (x > 32)
+                x = 0;
         }
         System.out.println(Arrays.toString(int1));
         in.close();
