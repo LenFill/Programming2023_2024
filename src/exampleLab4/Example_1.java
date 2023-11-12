@@ -3,7 +3,6 @@ package exampleLab4;
 Напишите программу, которая выводить в консольное окно
 прямоугольник, размеры сторон которого, ширина: 23 колонки, высота: 11
 строк;
-
  */
 public class Example_1 {
     public static void main(String[] args) {

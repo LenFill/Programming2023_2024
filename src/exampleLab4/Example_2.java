@@ -2,7 +2,6 @@ package exampleLab4;
 /*
 Напишите программу, которая выводит в консольное окно
 прямоугольный треугольник;
-
  */
 public class Example_2 {
     public static void main(String[] args) {

@@ -3,7 +3,6 @@ package exampleLab4;
 Напишите программу, в которой создается двумерный массив, который
 выводит прямоугольный треугольник;
  */
-
 public class Example_4 {
     public static void main(String[] args) {
         int [] [] thoDimArray = new int [5] [5];
@@ -15,5 +14,4 @@ public class Example_4 {
             System.out.println();
         }
     }
-
 }
