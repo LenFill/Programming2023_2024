@@ -1,4 +1,4 @@
-package exempleLab1;
+package exampleLab1;
 import java.util.Scanner;
 public class Example_14 {
     public static void main(String[] args){
