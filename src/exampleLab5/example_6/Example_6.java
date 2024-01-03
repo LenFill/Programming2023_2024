@@ -1,4 +1,4 @@
-package exampleLab5;
+package exampleLab5.example_6;
 /*
 Напишите программу с классом, в котором есть два закрытых
 целочисленных поля (назовем их max и min). Значение поля max не может
@@ -13,4 +13,33 @@ package exampleLab5;
 отображающий в консольном окне значения полей объекта.
 */
 public class Example_6 {
+    private int max;
+    private int min;
+
+    public void showMaxMin(int a, int b){
+        if (a>b){
+            max = a;
+            min = b;
+        }
+        else {
+            max = b;
+            min = a;
+        }
+    }
+    public Example_6(){
+
+    }
+    public Example_6(int a, int b){
+        if (a>b){
+            max = a;
+            min = b;
+        }
+        else {
+            max = b;
+            min = a;
+        }
+    }
+    public void showMaxAndMin(){
+        System.out.println("Max: " + max + "\nMin: " + min);
+    }
 }

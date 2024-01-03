@@ -1,4 +1,7 @@
-package exampleLab5;
+package exampleLab5.example_5;
+
+import exampleLab5.example_3.Example_3;
+
 /*
 Напишите программу с классом, у которого есть закрытое целочисленное
 поле. Значение полю присваивается с помощью открытого метода. Методу
@@ -12,4 +15,29 @@ package exampleLab5;
 метод, позволяющий проверить значение поля.
 */
 public class Example_5 {
+    private int num1;
+
+    public void setNum1(int num1) {
+        this.num1 = num1;
+    }
+    public Example_5(){
+        num1 = 0;
+        System.out.println(num1);
+    }
+    public Example_5(int num1){
+        if (num1>100)
+            num1 = 100;
+        else
+            num1 = num1;
+        System.out.println(num1);
+    }
+ /*   public void showNum1(){
+        if (num1 > 100)
+            num1 = 100;
+        System.out.println(num1);
+    }
+
+  */
+
+
 }

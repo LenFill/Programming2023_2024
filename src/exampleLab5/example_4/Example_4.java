@@ -1,4 +1,4 @@
-package exampleLab5;
+package exampleLab5.example_4;
 /*
 Напишите программу с классом, у которого есть символьное и
 целочисленное поле. В классе должны быть описаны версии конструктора с
@@ -12,4 +12,19 @@ package exampleLab5;
 сотые).
 */
 public class Example_4 {
+    private char sim1;
+    private int chislo1;
+
+
+    public Example_4(int chislo1, char sim1){
+        System.out.println( sim1 + " " + chislo1);
+    }
+    public Example_4( double num1){
+        double ostatok = (num1 % 1) * 100;
+        int cheloe = (int) num1;
+        sim1 = (char) cheloe;
+        chislo1 = (int) ostatok;
+        System.out.println( sim1 + " " + chislo1);
+    }
+
 }
