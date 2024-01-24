@@ -15,7 +15,6 @@ package exampleLab5.example_6;
 public class Example_6 {
     private int max;
     private int min;
-
     public void showMaxMin(int a, int b){
         if (a>b){
             max = a;
@@ -27,7 +26,6 @@ public class Example_6 {
         }
     }
     public Example_6(){
-
     }
     public Example_6(int a, int b){
         if (a>b){

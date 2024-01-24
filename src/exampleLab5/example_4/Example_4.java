@@ -14,8 +14,6 @@ package exampleLab5.example_4;
 public class Example_4 {
     private char sim1;
     private int chislo1;
-
-
     public Example_4(int chislo1, char sim1){
         System.out.println( sim1 + " " + chislo1);
     }
@@ -26,5 +24,4 @@ public class Example_4 {
         chislo1 = (int) ostatok;
         System.out.println( sim1 + " " + chislo1);
     }
-
 }

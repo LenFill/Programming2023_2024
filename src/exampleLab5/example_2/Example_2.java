@@ -11,7 +11,6 @@ package exampleLab5.example_2;
 public class Example_2 {
     private char sim1;
     private char sim2;
-
     public void setSim1(char sim1) {
         this.sim1 = sim1;
     }

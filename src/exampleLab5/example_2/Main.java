@@ -6,7 +6,5 @@ public class Main {
         exe.setSim1('e');
         exe.setSim2('w');
         exe.showSim1AndSim2();
-
-
     }
 }

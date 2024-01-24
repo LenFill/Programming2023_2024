@@ -8,7 +8,5 @@ public class Main {
         System.out.println(exe);
         System.out.println(exe1);
         System.out.println(exe2);
-
-
     }
 }
