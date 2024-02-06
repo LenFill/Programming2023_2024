@@ -8,4 +8,12 @@ package exampleLab7.example_4;
 копии.
  */
 public class Main {
+    public static void main(String[] args) {
+        SuperClass SuperClass = new SuperClass('t');
+        SuperClass.getPrint();
+        SubClass SubClass = new SubClass('x', "Проверка");
+        SubClass.getPrint();
+        SubSubClass SubSubClass = new SubSubClass('h', "Повторная проверка", 234);
+        SubSubClass.getPrint();
+    }
 }

@@ -15,10 +15,10 @@ public class SubClass extends SuperClass{
         super.getPrint();
         System.out.println("Второй параметр str: " + str);
     }
-//    public SubClass createSubClass(char sim, String str){
-//        SubClass copySubClass = new SubClass(sim,str);
-//        super(sim)
-//        copySubClass.str = this.str;
-//        return copySubClass;
-//    }
+    public SubClass createSubClass(char sim, String str) {
+        super.createSuperClass(sim);
+        SubClass copySubClass = new SubClass(sim,str);
+        copySubClass.str = this.str;
+        return copySubClass;
+    }
 }
