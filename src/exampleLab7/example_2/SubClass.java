@@ -2,7 +2,6 @@ package exampleLab7.example_2;
 
 public class SubClass extends SuperClass{
     public int num;
-
     public SubClass(String text){
         super(text);
     }

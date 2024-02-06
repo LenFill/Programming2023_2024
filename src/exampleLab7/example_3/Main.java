@@ -19,8 +19,5 @@ public class Main {
         System.out.println(subClass);
         SubSubClass subSubClass = new SubSubClass(2342, 'x', "Проверка");
         System.out.println(subSubClass);
-
-
-
     }
 }

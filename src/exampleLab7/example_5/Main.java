@@ -21,6 +21,5 @@ public class Main {
         subClass1.showInfo();
         SubClass2  subClass2 = new SubClass2("Проверка саба2", 'l');
         subClass2.showInfo();
-
     }
 }

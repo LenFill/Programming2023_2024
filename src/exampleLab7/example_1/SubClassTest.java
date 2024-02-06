@@ -3,7 +3,6 @@ package exampleLab7.example_1;
 public class SubClassTest extends SuperClassTest{
     private String str2;
     private String str3;
-
     SubClassTest(String strEx){
         super(strEx);
     }
@@ -19,7 +18,6 @@ public class SubClassTest extends SuperClassTest{
                 " str 1 = " + this.getStr1() + "\n" +
                 " str 2 = " + this.str2 + "\n" +
                 " str 3 = " + this.str3;
-
         return ClassNameAndFieldValue;
     }
     public String getStr3() {

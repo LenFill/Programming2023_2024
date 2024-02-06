@@ -35,5 +35,4 @@ public class SuperClass {
     public String toString(){
         return "SuperClass: " + text;
     }
-
 }

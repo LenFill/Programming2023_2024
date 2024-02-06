@@ -9,7 +9,6 @@ public class SubClass extends SuperClass{
     public SubClass(){
         System.out.println();
     }
-
     @Override
     public void getPrint() {
         super.getPrint();

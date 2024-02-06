@@ -25,7 +25,5 @@ public class Main {
         System.out.println(subClass);
         subClass.setText(30);
         System.out.println(subClass);
-
     }
-
 }

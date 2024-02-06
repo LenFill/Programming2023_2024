@@ -16,5 +16,4 @@ public class SuperClass {
         copySuperClass.sim = this.sim;
         return copySuperClass;
     }
-
 }

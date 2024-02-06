@@ -15,7 +15,6 @@ public class SuperClass {
     SuperClass(){//Пришлось создавать конструктор без параметров для исправлени ошибки
         System.out.println("Конструктор без параметров");
     }
-
     @Override
     public String toString() {
         return "SuperClass{" +
