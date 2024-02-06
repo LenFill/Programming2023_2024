@@ -12,4 +12,15 @@ package exampleLab7.example_3;
 чтобы он возвращал строку с названием класса и значениями всех полей объекта.
  */
 public class Main {
+    public static void main(String[] args) {
+        SuperClass superClass = new SuperClass(7568);
+        System.out.println(superClass);
+        SubClass subClass = new SubClass(6523,'x');
+        System.out.println(subClass);
+        SubSubClass subSubClass = new SubSubClass(2342, 'x', "Проверка");
+        System.out.println(subSubClass);
+
+
+
+    }
 }
