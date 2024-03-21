@@ -1,5 +1,7 @@
 package exampleLab9.examples.example_5;
 
+import java.util.ArrayList;
+
 public class Recursion {
     public static void main(String[] args) {
         System.out.println(fact(5));
