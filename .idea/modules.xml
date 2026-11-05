@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lab9Task5Head/Lab9Task5Head.iml" filepath="$PROJECT_DIR$/Lab9Task5Head/Lab9Task5Head.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab9Task5Tail/Lab9Task5Tail.iml" filepath="$PROJECT_DIR$/Lab9Task5Tail/Lab9Task5Tail.iml" />
       <module fileurl="file://$PROJECT_DIR$/Programming2023_2024.iml" filepath="$PROJECT_DIR$/Programming2023_2024.iml" />
     </modules>
   </component>
