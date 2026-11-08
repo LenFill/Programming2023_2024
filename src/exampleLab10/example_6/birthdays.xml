@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<birthdays>
+        
+    <person>
+                
+        <name>Иван Иванов</name>
+                
+        <date>15.03.2005</date>
+            
+    </person>
+        
+    <person>
+                
+        <name>Анна Петрова</name>
+                
+        <date>22.07.2006</date>
+            
+    </person>
+        
+    <person>
+                
+        <name>Пётр Сидоров</name>
+                
+        <date>10.12.2004</date>
+            
+    </person>
+    
+</birthdays>
