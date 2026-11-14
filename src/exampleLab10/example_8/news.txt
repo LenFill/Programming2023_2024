@@ -1,0 +1,177 @@
+Тема: jsoup Java HTML Parser release 1.24.1
+Время: Nov 3
+
+Тема: jsoup CSS query migration guide
+Время: Nov 3
+
+Тема: jsoup Java HTML Parser release 1.23.2
+Время: Aug 26
+
+Тема: jsoup Java HTML Parser release 1.23.1
+Время: Jul 30
+
+Тема: jsoup Java HTML Parser release 1.22.2
+Время: Apr 20
+
+Тема: jsoup Java HTML Parser release 1.22.1
+Время: Jan 1
+
+Тема: jsoup Java HTML Parser release 1.21.2
+Время: Aug 25
+
+Тема: jsoup Java HTML Parser release 1.21.1
+Время: Jun 23
+
+Тема: jsoup Java HTML Parser release 1.20.1
+Время: Apr 29
+
+Тема: jsoup Java HTML Parser release 1.19.1
+Время: Mar 4
+
+Тема: jsoup 1.18.3 quick update
+Время: Dec 2
+
+Тема: jsoup Java HTML Parser release 1.18.2
+Время: Nov 27
+
+Тема: jsoup Java HTML Parser release 1.18.1
+Время: Jul 10
+
+Тема: jsoup Java HTML Parser release 1.17.2
+Время: Dec 29
+
+Тема: jsoup Java HTML Parser release 1.17.1
+Время: Nov 27
+
+Тема: jsoup Java HTML Parser release 1.16.2
+Время: Oct 20
+
+Тема: jsoup Java HTML Parser release 1.16.1
+Время: Apr 29
+
+Тема: jsoup Java HTML Parser release 1.15.4
+Время: Feb 18
+
+Тема: jsoup Java HTML Parser release 1.15.3
+Время: Aug 24
+
+Тема: jsoup Java HTML Parser release 1.15.2
+Время: Jul 4
+
+Тема: jsoup Java HTML Parser release 1.15.1
+Время: May 15
+
+Тема: jsoup Java HTML Parser release 1.14.3
+Время: Sep 30
+
+Тема: jsoup Java HTML Parser release 1.14.2
+Время: Aug 15
+
+Тема: jsoup Java HTML Parser release 1.14.1
+Время: Jul 10
+
+Тема: jsoup Java HTML Parser release 1.13.1
+Время: Feb 29
+
+Тема: jsoup Java HTML Parser release 1.12.2
+Время: Feb 8
+
+Тема: jsoup Java HTML Parser release 1.12.1
+Время: May 12
+
+Тема: jsoup Java HTML Parser release 1.11.3
+Время: Apr 15
+
+Тема: jsoup Java HTML Parser release 1.11.2
+Время: Nov 19
+
+Тема: jsoup Java HTML Parser release 1.11.1
+Время: Nov 4
+
+Тема: jsoup Java HTML Parser release 1.10.3
+Время: Jun 11
+
+Тема: jsoup release 1.10.2
+Время: Jan 2
+
+Тема: jsoup release 1.10.1
+Время: Oct 23
+
+Тема: jsoup release 1.9.2
+Время: May 17
+
+Тема: jsoup release 1.9.1
+Время: Apr 16
+
+Тема: jsoup release 1.8.3
+Время: Aug 2
+
+Тема: jsoup release 1.8.2
+Время: Apr 13
+
+Тема: jsoup release 1.8.1
+Время: Sep 27
+
+Тема: jsoup release 1.7.3
+Время: Nov 10
+
+Тема: jsoup release 1.7.2
+Время: Jan 27
+
+Тема: jsoup pep release 1.7.1
+Время: Sep 23
+
+Тема: jsoup 1.6.3 released
+Время: May 28
+
+Тема: jsoup 1.6.2 released
+Время: Mar 27
+
+Тема: HTML5 parser out of beta: jsoup 1.6.1 released
+Время: Jul 2
+
+Тема: Brand new HTML5 parser: jsoup 1.6.0 released
+Время: Jun 13
+
+Тема: jsoup 1.5.2 released
+Время: Feb 27
+
+Тема: jsoup 1.5.1 released
+Время: Feb 19
+
+Тема: jsoup 1.4.1 released
+Время: Nov 23
+
+Тема: jsoup 1.3.3 released
+Время: Sep 19
+
+Тема: jsoup 1.3.2 released
+Время: Aug 30
+
+Тема: Self-contained, and improved web connections: jsoup version 1.3.1
+Время: Aug 23
+
+Тема: HTML5 and international support: jsoup version 1.2.3
+Время: Aug 4
+
+Тема: Faster, lighter: jsoup version 1.2.2 released
+Время: Jul 11
+
+Тема: jsoup version 1.2.1 released
+Время: Jun 21
+
+Тема: jsoup version 1.1.1 released
+Время: Jun 8
+
+Тема: jsoup version 0.3.1 released
+Время: Feb 20
+
+Тема: jsoup version 0.2.2 released
+Время: Feb 7
+
+Тема: jsoup version 0.1.2 released
+Время: Feb 2
+
+Тема: jsoup HTML parser launches
+Время: Jan 31
+
